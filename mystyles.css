@@ -1,0 +1,60 @@
+/* Style sheet file (note how this comment was created) */
+
+
+A:link
+	{color: blue;
+	 text-decoration: underline;
+	 background-color: transparent;
+	}
+
+A:visited  
+	{color: blue;
+	 text-decoration: underline;
+	 background-color: transparent;
+	}
+
+A.noline:link
+	{color: blue;
+	 text-decoration: none;
+	 background-color: transparent;
+	}
+
+A.noline:visited  
+	{color: blue;
+	 text-decoration: none;
+	 background-color: transparent;
+	}
+
+
+body {
+	background-color: #ffffff;
+     }		
+	
+
+h1 {padding-top: 0.5em;
+    padding-bottom: 0em}
+
+caption {text-align: left;
+         font-style: italic;
+         font-size: 95%}
+
+
+.sidebar { font-family: Arial, sans-serif;
+	 text-align: center }
+.sidebar a:link { color: #ffffff;
+	 text-decoration: none }
+.sidebar a:visited { 
+	 color: #ffffff;
+	 text-decoration: none }
+.sidebar a:hover { color: #222222; }
+.sidebar td { /* background-color: #3366FF; */
+         background-color: #669900;
+	 text-align: left;
+	 font-weight: bold }
+
+.tab { margin-left: 25px; }
+
+.indentfirstline { text-indent: 25px; }
+
+
+
