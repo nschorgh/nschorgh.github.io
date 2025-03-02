@@ -3,13 +3,13 @@
 
 A:link
 	{color: blue;
-	 text-decoration: underline;
+	 text-decoration: none;
 	 background-color: transparent;
 	}
 
 A:visited  
 	{color: blue;
-	 text-decoration: underline;
+	 text-decoration: none;
 	 background-color: transparent;
 	}
 
